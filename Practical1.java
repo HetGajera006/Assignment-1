@@ -93,7 +93,7 @@ class StringOperations {
     }
 }
 
-public class Main {
+public class Practical1 {
     public static void main(String[] args) {
 
         // Array operations
